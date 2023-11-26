@@ -19,6 +19,7 @@ Java Basic Algorithms intro practice
 4) Great choice
 5) Bob and Megan
 6) Mathematics
+
 Упорядкуйте каталог книг за абеткою.
 
 
